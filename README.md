@@ -1,15 +1,19 @@
 
 
 ## 🚀 About Me
-- 👋 Hi, I’m @atanu3000
+- 👋 Hi, I’m atanu3000
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ & JAVA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
 # Hi, I'm Atanu! 👋
 
+           ╔┓┏╦━━╦┓╔┓╔━━╗╔╗
+           ║┗┛║┗━╣┃║┃║╯╰║║║
+           ║┏┓║┏━╣┗╣┗╣╰╯║╠╣
+           ╚┛┗╩━━╩━╩━╩━━╝╚╝ 
 
 ## 🔗 Links
 
