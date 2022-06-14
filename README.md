@@ -8,7 +8,6 @@
 
 
 ![visitors](https://komarev.com/ghpvc/?username=atanu3000&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f) 
-
 ![last visit](https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat) 
 ## 🚀 About Me
 - 👋 Hi, I’m atanu3000
@@ -19,7 +18,7 @@
 
 
 
-## 🔗 Links
+##  Links to connect me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanu-paul-b1212b219/)
 
