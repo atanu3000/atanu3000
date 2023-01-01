@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 👋 Hi, I’m atanu3000
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning C++ & JAVA
+- 🌱 I’m currently learning C/C++, JAVA & Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me atanupaul2411@gmail.com
 
