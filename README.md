@@ -8,7 +8,7 @@
 
 
 ![visitors](https://komarev.com/ghpvc/?username=atanu3000&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f) 
-![last visit](https://img.shields.io/github/last-commit/aritraroy24/aritraroy24?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat) 
+![last visit](https://img.shields.io/github/last-commit/atanu3000/atanu3000?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat) 
 ## 🚀 About Me
 - 👋 Hi, I’m atanu3000
 - 👀 I’m interested in problem solving
