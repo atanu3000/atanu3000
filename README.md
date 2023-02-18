@@ -29,9 +29,9 @@
  
 <p align="center"><img src="https://raw.githubusercontent.com/aritraroy24/aritraroy24/master/img/gold_line.png"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atanu3000&show_icons=true&locale=en"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atanu3000&"> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu3000&show_icons=true&locale=en&layout=compact"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atanu3000&show_icons=true&locale=en"> <br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atanu3000&"> <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu3000&show_icons=true&locale=en&layout=compact"><br><br></p> 
 
 <p align="center"><a href="https://www.buymeacoffee.com/atanupaul2B" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
