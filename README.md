@@ -29,7 +29,7 @@
  
 <p align="center"><img src="https://raw.githubusercontent.com/aritraroy24/aritraroy24/master/img/gold_line.png"></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atanu3000&show_icons=true&locale=en"> &nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=atanu3000&"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=atanu3000&show_icons=true&locale=en"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=atanu3000&"> </p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=atanu3000&show_icons=true&locale=en&layout=compact"></p>
 
