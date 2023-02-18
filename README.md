@@ -33,7 +33,7 @@
 
 ![status](https://github-readme-streak-stats.herokuapp.com/?user=atanu3000&)
 
-
+<p align="center"><a href="https://www.buymeacoffee.com/atanupaul2B" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></p>
 
 <!---
 atanu3000/atanu3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
