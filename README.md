@@ -5,6 +5,7 @@
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=atanu3000&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f"> &nbsp; <img src="https://img.shields.io/github/last-commit/atanu3000/atanu3000?logo=markdown&label=LAST+UPDATE&color=FDCD0F&style=flat"></p>
+
 ## 🚀 About Me
 - 👋 Hi, I’m atanu3000
 - 👀 I’m interested in problem solving
