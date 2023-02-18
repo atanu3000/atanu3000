@@ -1,10 +1,7 @@
 # Hi, I'm Atanu! 👋
 
-           ╔┓┏╦━━╦┓╔┓╔━━╗╔╗
-           ║┗┛║┗━╣┃║┃║╯╰║║║
-           ║┏┓║┏━╣┗╣┗╣╰╯║╠╣
-           ╚┛┗╩━━╩━╩━╩━━╝╚╝ 
-![programmer](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif) 
+           
+<p align="center"><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></p>
 
 
 ![visitors](https://komarev.com/ghpvc/?username=atanu3000&style=flat&labelColor=black&logo=awesomelists&label=PROFILE+VIEWS&color=fc620f) 
@@ -20,11 +17,12 @@
 
 ##  Links to connect me
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atanu-paul-b1212b219/)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/AtanuPa04588410) 
-
-<a href="https://www.facebook.com/atanu.paul.792740/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atanupaul" height="30" width="40" /></a>  <a href="https://auth.geeksforgeeks.org/user/atanupaul2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atanupaul2411" height="30" width="40" /></a>
+<p align="left">
+<a href="https://twitter.com/AtanuPa04588410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AtanuPa04588410" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/atanu-paul-b1212b219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atanu-paul-b1212b219" height="30" width="40" /></a>
+<a href="https://www.facebook.com/atanu.paul.792740/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atanu.paul.792740" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/atanupaul2411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="atanupaul2411" height="30" width="40" /></a>
+</p>
 
 ![status](https://github-readme-stats.vercel.app/api/top-langs?username=atanu3000&show_icons=true&locale=en&layout=compact) 
 
